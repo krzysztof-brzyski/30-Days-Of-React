@@ -1,0 +1,17 @@
+
+
+.tech-logos{
+  background: #f3f3f3;
+  width: 80%;
+  margin: 3rem 10%;
+  text-align: center;
+}
+
+.tech-logo{
+  width: 25%;
+  display: inline-block;
+}
+
+.tech-logo img {
+  max-width: 50%;
+}
