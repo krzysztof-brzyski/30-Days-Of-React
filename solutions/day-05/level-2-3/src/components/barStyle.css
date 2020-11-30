@@ -1,0 +1,4 @@
+progress::-moz-progress-bar {
+    background-color: orange !important;
+    border-radius: 10px;
+}
